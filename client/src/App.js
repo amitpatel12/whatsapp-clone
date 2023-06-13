@@ -7,7 +7,7 @@ import AccountProvider  from './context/AccountProvider';
 
 
 
-const clientId = ''
+const clientId = '1064735704394-2o51t5qbrlkvntfkcd11he7e9pqlps1q.apps.googleusercontent.com'
 function App() {
   return (
    
